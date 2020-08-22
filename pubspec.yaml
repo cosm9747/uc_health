@@ -1,0 +1,32 @@
+name: uc_health
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rflutter_alert: ^1.0.3
+  flushbar: ^1.9.1
+  page_transition: ^1.1.5
+  dots_indicator: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: fonts/Oswald-Regular.ttf
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+  uses-material-design: true
+  assets:
+    - images/

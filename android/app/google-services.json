@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29702804329",
+    "firebase_url": "https://uchealth-c2c23.firebaseio.com",
+    "project_id": "uchealth-c2c23",
+    "storage_bucket": "uchealth-c2c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29702804329:android:61f287ba56aa3fb5c323f8",
+        "android_client_info": {
+          "package_name": "com.articulateapps.uc_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29702804329-8ibroprrv7dsb0pu5unpb9tn657o667l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDRr45FOe0Z7g4BTWad9kJHocHFxy61U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29702804329-8ibroprrv7dsb0pu5unpb9tn657o667l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
